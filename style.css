@@ -1,0 +1,17 @@
+
+header{
+    background-color: beige;
+}
+
+body {
+    background-color: rgb(208, 211, 183);
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+#nav-bar {
+    position: fixed;
+    width: 100%;
+    /* margin-top: 0%;
+    padding-top: 0%; */
+}
